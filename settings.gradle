@@ -1,0 +1,2 @@
+rootProject.name='AppChoiNhac'
+include ':app'
